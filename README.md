@@ -14,6 +14,7 @@ This Python script optimizes your Windows system by adjusting power settings, ru
    cd C:\Users\godsu\Desktop\foldername
 
 4. Run the script
+    ```bash
    python system_optimizer.py
 
 ## Features
