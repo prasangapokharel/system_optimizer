@@ -21,3 +21,7 @@ This Python script optimizes your Windows system by adjusting power settings, ru
    ```bash
    git clone https://github.com/prasangapokharel/system_optimizer.git
    cd system_optimizer
+
+2. Run the script with Python:
+``bash
+python system_optimizer.py
