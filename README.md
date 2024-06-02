@@ -22,6 +22,14 @@ This Python script optimizes your Windows system by adjusting power settings, ru
    git clone https://github.com/prasangapokharel/system_optimizer.git
    cd system_optimizer
 
-2. Run the script with Python:
-``bash
-python system_optimizer.py
+2. Open terminal administration:
+   cd C:\Users\godsu\Desktop\foldername
+
+3. Run the script
+   python system_optimizer.py
+
+Sucessfully installed Prantivirus
+
+
+
+
