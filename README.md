@@ -10,7 +10,7 @@ This Python script optimizes your Windows system by adjusting power settings, ru
    cd system_optimizer
 
 2. Open terminal administration:
-3.  ```bash
+    ```bash
    cd C:\Users\godsu\Desktop\foldername
 
 4. Run the script
