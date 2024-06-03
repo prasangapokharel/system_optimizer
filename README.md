@@ -3,7 +3,7 @@
 This Python script optimizes your Windows system by adjusting power settings, running disk cleanup and defragmentation, disabling unnecessary scheduled tasks, visual effects, and background services.
 
 ## Usage
-1. Create folder in Desktop
+1. Create folder in Desktop Folder
    ```bash
    Praster
    
