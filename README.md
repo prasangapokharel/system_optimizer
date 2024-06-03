@@ -29,18 +29,19 @@ Desktop/
 ```
 
 ## Features
-Clearing temp files
-Clearing DNS cache
-Disabling animations
-Disabling startup programs
-Managing internet access
-Preventing specific apps from starting automatically
-Performing disk cleanup
-Defragmenting disk
-Setting power settings
-Disabling scheduled tasks
-Disabling visual effects
-Disabling background services
+
+- Clearing temp files
+- Clearing DNS cache
+- Disabling animations
+- Disabling startup programs
+- Managing internet access
+- Preventing specific apps from starting automatically
+- Performing disk cleanup
+- Defragmenting disk
+- Setting power settings
+- Disabling scheduled tasks
+- Disabling visual effects
+- Disabling background services
 
 ## Prerequisites
 
