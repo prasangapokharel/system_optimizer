@@ -20,6 +20,13 @@ This Python script optimizes your Windows system by adjusting power settings, ru
     ```bash
    python system_optimizer.py
 
+Directory structure
+```bash
+Desktop/
+└── Praster/
+    └── system_optimizer/
+        └── system_optimizer.py
+
 ## Features
 
 - Set power settings to high performance.
