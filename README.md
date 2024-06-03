@@ -3,15 +3,18 @@
 This Python script optimizes your Windows system by adjusting power settings, running disk cleanup and defragmentation, disabling unnecessary scheduled tasks, visual effects, and background services.
 
 ## Usage
-
-1. Clone the repository:
+1. Create folder in Desktop
+   ```bash
+   Praster
+   
+2. Clone the repository:
    ```bash
    git clone https://github.com/prasangapokharel/system_optimizer.git
    cd system_optimizer
 
-2. Open terminal administration:
+3. Open terminal administration:
     ```bash
-   cd C:\Users\godsu\Desktop\system_optimizer
+   cd C:\Users\godsu\Desktop\Praster\system_optimizer
 
 4. Run the script
     ```bash
