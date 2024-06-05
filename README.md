@@ -14,7 +14,8 @@ This Python script optimizes your Windows system by adjusting power settings, ru
 
 3. Open terminal administration:
     ```bash
-   cd C:\Users\godsu\Desktop\Praster\system_optimizer
+   cd Desktop\Praster\system_optimizer
+
 
 4. Run the script
     ```bash
